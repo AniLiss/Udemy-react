@@ -6,7 +6,7 @@ const btnColor = {
     backgroundColor: '#ccc',
     borderRadius: '2px',
     padding: '5px 15px'
-}
+};
 
 class App extends Component {
 

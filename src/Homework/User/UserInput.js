@@ -2,7 +2,7 @@ import React from 'react';
 
 const userInput = (props) => {
     return (
-        <input onChange={props.change} value={props.name} className="user-input" type="text" />
+        <input onChange={props.changed} value={props.name} className="user-input" type="text" />
     )
 };
 
